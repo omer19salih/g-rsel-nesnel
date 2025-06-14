@@ -1,0 +1,12 @@
+C:\Users\salih ömer\source\repos\ödevvv\bin\Debug\ödevvv.exe.config
+C:\Users\salih ömer\source\repos\ödevvv\bin\Debug\ödevvv.exe
+C:\Users\salih ömer\source\repos\ödevvv\bin\Debug\ödevvv.pdb
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.csproj.AssemblyReference.cache
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.Form1.resources
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.Properties.Resources.resources
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.csproj.GenerateResource.cache
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.csproj.CoreCompileInputs.cache
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.exe
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.pdb
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.Form2.resources
+C:\Users\salih ömer\source\repos\ödevvv\obj\Debug\ödevvv.Form3.resources
